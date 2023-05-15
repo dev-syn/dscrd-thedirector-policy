@@ -1,0 +1,28 @@
+# The Director Privacy Policy
+
+### What data is collected:
+The Director collects usernames and user id's when a user accepts the privacy policy, no data collected will personally identify your personal information.
+
+### How is the data used:
+The data is kept within The Director's database this data is solely for The Director's functionality
+and is used for creating a unique identifier in the database. This data continues to be stored indefinitely until you request for it to be removed in which it will be removed within 24 hours.
+
+### Why is this data collected:
+The Director will eventually have the functionality to store some stats for each user of certain commands you've used and reputation you've gained.
+
+### Where is the data stored:
+The data is stored in a MySQL database which is only accessible from The Director's running machine.
+
+### Data Revocation:
+
+Data can be requested to be cleared by running the '/revokedata' command. Note this process will take 24 - 48 hours for security measures. If your account were to be breached you would be re-notified every few hours of the process and can cancel at anytime.
+
+## Disclaimers:
+
+1. **Security Risks**:
+I am self-hosting the MySQL server so of course this does include some risks I take my security seriously and I don't plan to experience any breaches but never the less it's is still possible. Given I am breached I will be sure to notify of any incidents.
+
+   I use strong passwords on the database nothing that can be guessed or identified with any of my information.
+2. **Data Retention**:
+Your data is stored indefinitely until requested through the '/revokedata' command is used in which it will take
+24-48 hours before removed. See #Data Revocation for more info.
